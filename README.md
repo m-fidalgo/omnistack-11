@@ -4,6 +4,9 @@
 <h3>Sobre</h3>
 <p>Projeto que une pessoas dispostas a fazer doações e ONGs que necessitam de ajuda em uma mesma plataforma</p>
 
+<h3>Acesso</h3>
+<p>Clique <a href="https://be-the-hero-mf.vercel.app/">aqui</a> para visualizar a versão web</p>
+
 <h3>Tecnologias</h3>
 <li>Node.js</li>
 <li>React</li>

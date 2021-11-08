@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "be-the-hero",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,7 +8,7 @@
     "test": "cross-env NODE_ENV=test jest --runInBand"
   },
   "keywords": [],
-  "author": "",
+  "author": "maira",
   "license": "ISC",
   "dependencies": {
     "celebrate": "^12.1.1",
@@ -16,11 +16,14 @@
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
     "knex": "^0.21.1",
-    "sqlite3": "^5.0.0"
+    "sqlite3": "^5.0.0",
+    "nodemon": "^2.0.4"
   },
   "devDependencies": {
     "jest": "^26.1.0",
-    "nodemon": "^2.0.4",
     "supertest": "^4.0.2"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }

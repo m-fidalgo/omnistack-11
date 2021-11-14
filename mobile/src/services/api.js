@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://192.168.0.103:3303'
+  baseURL: 'https://fierce-bayou-11429.herokuapp.com',
 });
 
 export default api;

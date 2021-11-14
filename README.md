@@ -5,7 +5,7 @@
 <p>Projeto que une pessoas dispostas a fazer doações e ONGs que necessitam de ajuda em uma mesma plataforma</p>
 
 <h3>Acesso</h3>
-<p>Clique <a href="https://be-the-hero-mf.vercel.app/">aqui</a> para visualizar a versão web</p>
+<p>Clique <a href="https://be-the-hero-mf.vercel.app/">aqui</a> para visualizar a versão web e <a href="https://snack.expo.dev/@m.fidalgo/github.com-m-fidalgo-be-the-hero:mobile">aqui</a> para visualizar a versão mobile (por meio do Snack - Expo)</p>
 
 <h3>Funcionalidades</h3>
 <p>:heavy_check_mark: Cadastro de usuários e de ONGs</p>

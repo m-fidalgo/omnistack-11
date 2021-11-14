@@ -11,6 +11,7 @@
 <p>:heavy_check_mark: Cadastro de usuários e de ONGs</p>
 <p>:heavy_check_mark: Login e logout</p>
 <p>:heavy_check_mark: Cadastro e deleção de casos</p>
+<p>:heavy_check_mark: Pesquisa de ONGs, filtrando por tipo</p>
 
 <h3>Tecnologias</h3>
 
